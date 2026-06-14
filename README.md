@@ -1,7 +1,7 @@
 # Task 1: Secure Password System
 
 ## Overview
-This is a C++ project for the OWASP Recruitment Task 1 ("Build Secure Thinking").
+This is a C++ project .
 It implements a custom **Vigenère Cipher** to encrypt and decrypt passwords using a Master Key.
 
 ## How It Works
