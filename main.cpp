@@ -55,7 +55,6 @@ int main() {
     string myPassword;
     int choice;
 
-    cout << "--- CyberSecurity Task 1 (Fixed) ---" << endl;
     cout << "Enter a MasterKey (e.g., MANIT): ";
     getline(cin, myKey);
 
